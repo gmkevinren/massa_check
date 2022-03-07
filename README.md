@@ -1,5 +1,6 @@
 sudo apt install jq bc -y
-
+cd
+wget https://github.com/gmkevinren/massa_check/blob/main/massa_check.sh
 nano massa_check.sh
 #修改节点地址
 
